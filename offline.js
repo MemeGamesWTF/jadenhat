@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739170212,
+	"version": 1739172522,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,12 +13,16 @@
 		"images/jaden-sheet0.png",
 		"images/bg-sheet0.png",
 		"images/anchor-sheet0.png",
+		"images/sprite3sheet-sheet0.png",
+		"images/jadensmithwithhouse-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/game over.m4a",
 		"media/game over.ogg",
 		"media/house drop.m4a",
 		"media/house drop.ogg",
+		"media/boing.m4a",
+		"media/boing.ogg",
 		"media/bg (1).m4a",
 		"media/bg (1).ogg",
 		"icon-16.png",
