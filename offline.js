@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739173930,
+	"version": 1739178618,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,8 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"sunnyspellsregular-mv9ze.otf",
+		"sunny spells.ttf"
 	]
 }
