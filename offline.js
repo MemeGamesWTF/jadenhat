@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739168362,
+	"version": 1739169938,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,8 @@
 		"images/anchor-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
 		"media/bg (1).m4a",
 		"media/bg (1).ogg",
 		"icon-16.png",
