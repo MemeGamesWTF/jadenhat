@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739169938,
+	"version": 1739170212,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,8 @@
 		"media/tap.ogg",
 		"media/game over.m4a",
 		"media/game over.ogg",
+		"media/house drop.m4a",
+		"media/house drop.ogg",
 		"media/bg (1).m4a",
 		"media/bg (1).ogg",
 		"icon-16.png",
